@@ -11,3 +11,8 @@ button:disabled{opacity:.5;cursor:not-allowed}
 .warn{color:#b54708;font-size:14px}
 .urgent{background:#fef3f2;border:1px solid #fda29b;color:#b42318;font-weight:600}
 details ul{margin:8px 0 0;padding-left:18px;font-size:14px}
+.nav{display:flex;gap:16px;align-items:center;margin:16px 0;flex-wrap:wrap}
+.nav a{color:#0b6bcb;text-decoration:none;font-weight:600}
+.linkbtn{background:none;border:0;color:#b42318;padding:0;cursor:pointer;font-size:15px}
+.success{color:#0b7a43}
+h2{margin:0}
